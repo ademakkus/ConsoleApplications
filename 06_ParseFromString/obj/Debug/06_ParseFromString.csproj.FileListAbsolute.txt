@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\ConsoleApplications\06_ParseFromString\bin\Debug\06_ParseFromString.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\06_ParseFromString\bin\Debug\06_ParseFromString.exe
+C:\Users\mypc\source\repos\ConsoleApplications\06_ParseFromString\bin\Debug\06_ParseFromString.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\06_ParseFromString\obj\Debug\06_ParseFromString.exe
+C:\Users\mypc\source\repos\ConsoleApplications\06_ParseFromString\obj\Debug\06_ParseFromString.pdb

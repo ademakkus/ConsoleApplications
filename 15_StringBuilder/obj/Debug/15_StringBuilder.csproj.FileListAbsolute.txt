@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\ConsoleApplications\15_StringBuilder\bin\Debug\15_StringBuilder.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\15_StringBuilder\bin\Debug\15_StringBuilder.exe
+C:\Users\mypc\source\repos\ConsoleApplications\15_StringBuilder\bin\Debug\15_StringBuilder.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\15_StringBuilder\obj\Debug\15_StringBuilder.exe
+C:\Users\mypc\source\repos\ConsoleApplications\15_StringBuilder\obj\Debug\15_StringBuilder.pdb

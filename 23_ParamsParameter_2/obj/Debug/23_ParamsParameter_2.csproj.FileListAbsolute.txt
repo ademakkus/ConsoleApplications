@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\ConsoleApplications\23_ParamsParameter_2\bin\Debug\23_ParamsParameter_2.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\23_ParamsParameter_2\bin\Debug\23_ParamsParameter_2.exe
+C:\Users\mypc\source\repos\ConsoleApplications\23_ParamsParameter_2\bin\Debug\23_ParamsParameter_2.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\23_ParamsParameter_2\obj\Debug\23_ParamsParameter_2.exe
+C:\Users\mypc\source\repos\ConsoleApplications\23_ParamsParameter_2\obj\Debug\23_ParamsParameter_2.pdb

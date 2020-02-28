@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\ConsoleApplications\14_StringEquality\bin\Debug\14_StringEquality.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\14_StringEquality\bin\Debug\14_StringEquality.exe
+C:\Users\mypc\source\repos\ConsoleApplications\14_StringEquality\bin\Debug\14_StringEquality.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\14_StringEquality\obj\Debug\14_StringEquality.exe
+C:\Users\mypc\source\repos\ConsoleApplications\14_StringEquality\obj\Debug\14_StringEquality.pdb

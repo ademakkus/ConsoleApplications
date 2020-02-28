@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\ConsoleApplications\07_UseDatesAndTimes\bin\Debug\07_UseDatesAndTimes.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\07_UseDatesAndTimes\bin\Debug\07_UseDatesAndTimes.exe
+C:\Users\mypc\source\repos\ConsoleApplications\07_UseDatesAndTimes\bin\Debug\07_UseDatesAndTimes.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\07_UseDatesAndTimes\obj\Debug\07_UseDatesAndTimes.exe
+C:\Users\mypc\source\repos\ConsoleApplications\07_UseDatesAndTimes\obj\Debug\07_UseDatesAndTimes.pdb
