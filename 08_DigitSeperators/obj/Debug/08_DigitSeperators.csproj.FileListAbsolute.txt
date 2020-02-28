@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\ConsoleApplications\08_DigitSeperators\bin\Debug\08_DigitSeperators.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\08_DigitSeperators\bin\Debug\08_DigitSeperators.exe
+C:\Users\mypc\source\repos\ConsoleApplications\08_DigitSeperators\bin\Debug\08_DigitSeperators.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\08_DigitSeperators\obj\Debug\08_DigitSeperators.exe
+C:\Users\mypc\source\repos\ConsoleApplications\08_DigitSeperators\obj\Debug\08_DigitSeperators.pdb

@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\ConsoleApplications\System.Char\bin\Debug\System.Char.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\System.Char\bin\Debug\System.Char.exe
+C:\Users\mypc\source\repos\ConsoleApplications\System.Char\bin\Debug\System.Char.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\System.Char\obj\Debug\System.Char.exe
+C:\Users\mypc\source\repos\ConsoleApplications\System.Char\obj\Debug\System.Char.pdb

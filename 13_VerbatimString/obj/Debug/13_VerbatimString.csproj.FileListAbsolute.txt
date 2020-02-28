@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\ConsoleApplications\13_VerbatimString\bin\Debug\13_VerbatimString.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\13_VerbatimString\bin\Debug\13_VerbatimString.exe
+C:\Users\mypc\source\repos\ConsoleApplications\13_VerbatimString\bin\Debug\13_VerbatimString.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\13_VerbatimString\obj\Debug\13_VerbatimString.exe
+C:\Users\mypc\source\repos\ConsoleApplications\13_VerbatimString\obj\Debug\13_VerbatimString.pdb

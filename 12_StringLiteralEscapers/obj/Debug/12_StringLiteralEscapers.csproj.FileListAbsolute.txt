@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\ConsoleApplications\12_StringLiteralEscapers\bin\Debug\12_StringLiteralEscapers.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\12_StringLiteralEscapers\bin\Debug\12_StringLiteralEscapers.exe
+C:\Users\mypc\source\repos\ConsoleApplications\12_StringLiteralEscapers\bin\Debug\12_StringLiteralEscapers.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\12_StringLiteralEscapers\obj\Debug\12_StringLiteralEscapers.exe
+C:\Users\mypc\source\repos\ConsoleApplications\12_StringLiteralEscapers\obj\Debug\12_StringLiteralEscapers.pdb

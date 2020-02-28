@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\ConsoleApplications\09_BinaryLiterals\bin\Debug\09_BinaryLiterals.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\09_BinaryLiterals\bin\Debug\09_BinaryLiterals.exe
+C:\Users\mypc\source\repos\ConsoleApplications\09_BinaryLiterals\bin\Debug\09_BinaryLiterals.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\09_BinaryLiterals\obj\Debug\09_BinaryLiterals.exe
+C:\Users\mypc\source\repos\ConsoleApplications\09_BinaryLiterals\obj\Debug\09_BinaryLiterals.pdb

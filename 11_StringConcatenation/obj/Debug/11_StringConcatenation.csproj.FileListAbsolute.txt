@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\ConsoleApplications\11_StringConcatenation\bin\Debug\11_StringConcatenation.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\11_StringConcatenation\bin\Debug\11_StringConcatenation.exe
+C:\Users\mypc\source\repos\ConsoleApplications\11_StringConcatenation\bin\Debug\11_StringConcatenation.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\11_StringConcatenation\obj\Debug\11_StringConcatenation.exe
+C:\Users\mypc\source\repos\ConsoleApplications\11_StringConcatenation\obj\Debug\11_StringConcatenation.pdb
