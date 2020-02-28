@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\ConsoleApplications\20_MultiOutParameters\bin\Debug\20_MultiOutParameters.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\20_MultiOutParameters\bin\Debug\20_MultiOutParameters.exe
+C:\Users\mypc\source\repos\ConsoleApplications\20_MultiOutParameters\bin\Debug\20_MultiOutParameters.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\20_MultiOutParameters\obj\Debug\20_MultiOutParameters.exe
+C:\Users\mypc\source\repos\ConsoleApplications\20_MultiOutParameters\obj\Debug\20_MultiOutParameters.pdb

@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\ConsoleApplications\18_DeafaultValueParameters\bin\Debug\18_DeafaultValueParameters.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\18_DeafaultValueParameters\bin\Debug\18_DeafaultValueParameters.exe
+C:\Users\mypc\source\repos\ConsoleApplications\18_DeafaultValueParameters\bin\Debug\18_DeafaultValueParameters.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\18_DeafaultValueParameters\obj\Debug\18_DeafaultValueParameters.exe
+C:\Users\mypc\source\repos\ConsoleApplications\18_DeafaultValueParameters\obj\Debug\18_DeafaultValueParameters.pdb

@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\ConsoleApplications\19_OutParamter\bin\Debug\19_OutParamter.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\19_OutParamter\bin\Debug\19_OutParamter.exe
+C:\Users\mypc\source\repos\ConsoleApplications\19_OutParamter\bin\Debug\19_OutParamter.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\19_OutParamter\obj\Debug\19_OutParamter.exe
+C:\Users\mypc\source\repos\ConsoleApplications\19_OutParamter\obj\Debug\19_OutParamter.pdb

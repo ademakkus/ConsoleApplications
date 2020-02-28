@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\ConsoleApplications\17_MultiDimensionalArray\bin\Debug\17_MultiDimensionalArray.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\17_MultiDimensionalArray\bin\Debug\17_MultiDimensionalArray.exe
+C:\Users\mypc\source\repos\ConsoleApplications\17_MultiDimensionalArray\bin\Debug\17_MultiDimensionalArray.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\17_MultiDimensionalArray\obj\Debug\17_MultiDimensionalArray.exe
+C:\Users\mypc\source\repos\ConsoleApplications\17_MultiDimensionalArray\obj\Debug\17_MultiDimensionalArray.pdb

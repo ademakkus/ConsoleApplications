@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\ConsoleApplications\21_RefKeyword\bin\Debug\21_RefKeyword.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\21_RefKeyword\bin\Debug\21_RefKeyword.exe
+C:\Users\mypc\source\repos\ConsoleApplications\21_RefKeyword\bin\Debug\21_RefKeyword.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\21_RefKeyword\obj\Debug\21_RefKeyword.exe
+C:\Users\mypc\source\repos\ConsoleApplications\21_RefKeyword\obj\Debug\21_RefKeyword.pdb
