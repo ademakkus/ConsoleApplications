@@ -1,0 +1,6 @@
+C:\Users\mypc\source\repos\ConsoleApplications\52_Event_Catch\obj\Debug\52_Event_Catch.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\52_Event_Catch\bin\Debug\52_Event_Catch.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\52_Event_Catch\bin\Debug\52_Event_Catch.exe
+C:\Users\mypc\source\repos\ConsoleApplications\52_Event_Catch\bin\Debug\52_Event_Catch.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\52_Event_Catch\obj\Debug\52_Event_Catch.exe
+C:\Users\mypc\source\repos\ConsoleApplications\52_Event_Catch\obj\Debug\52_Event_Catch.pdb

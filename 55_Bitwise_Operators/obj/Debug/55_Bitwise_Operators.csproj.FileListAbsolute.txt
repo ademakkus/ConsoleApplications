@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\55_Bitwise_Operators\bin\Debug\55_Bitwise_Operators.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\55_Bitwise_Operators\bin\Debug\55_Bitwise_Operators.exe
+C:\Users\mypc\source\repos\ConsoleApplications\55_Bitwise_Operators\bin\Debug\55_Bitwise_Operators.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\55_Bitwise_Operators\obj\Debug\55_Bitwise_Operators.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\55_Bitwise_Operators\obj\Debug\55_Bitwise_Operators.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\55_Bitwise_Operators\obj\Debug\55_Bitwise_Operators.exe
+C:\Users\mypc\source\repos\ConsoleApplications\55_Bitwise_Operators\obj\Debug\55_Bitwise_Operators.pdb

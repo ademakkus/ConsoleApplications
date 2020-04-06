@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\53_Event_Parameterized\bin\Debug\53_Event_Parameterized.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\53_Event_Parameterized\bin\Debug\53_Event_Parameterized.exe
+C:\Users\mypc\source\repos\ConsoleApplications\53_Event_Parameterized\bin\Debug\53_Event_Parameterized.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\53_Event_Parameterized\obj\Debug\53_Event_Parameterized.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\53_Event_Parameterized\obj\Debug\53_Event_Parameterized.exe
+C:\Users\mypc\source\repos\ConsoleApplications\53_Event_Parameterized\obj\Debug\53_Event_Parameterized.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\53_Event_Parameterized\obj\Debug\53_Event_Parameterized.csprojAssemblyReference.cache
