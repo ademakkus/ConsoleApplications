@@ -1,0 +1,6 @@
+C:\Users\mypc\source\repos\ConsoleApplications\58_Find_Prime_Number\bin\Debug\58_Find_Prime_Number.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\58_Find_Prime_Number\bin\Debug\58_Find_Prime_Number.exe
+C:\Users\mypc\source\repos\ConsoleApplications\58_Find_Prime_Number\bin\Debug\58_Find_Prime_Number.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\58_Find_Prime_Number\obj\Debug\58_Find_Prime_Number.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\58_Find_Prime_Number\obj\Debug\58_Find_Prime_Number.exe
+C:\Users\mypc\source\repos\ConsoleApplications\58_Find_Prime_Number\obj\Debug\58_Find_Prime_Number.pdb

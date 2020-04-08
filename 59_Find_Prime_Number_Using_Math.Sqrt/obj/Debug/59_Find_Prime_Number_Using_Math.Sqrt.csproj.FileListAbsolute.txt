@@ -1,0 +1,6 @@
+C:\Users\mypc\source\repos\ConsoleApplications\59_Find_Prime_Number_Using_Math.Sqrt\bin\Debug\59_Find_Prime_Number_Using_Math.Sqrt.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\59_Find_Prime_Number_Using_Math.Sqrt\bin\Debug\59_Find_Prime_Number_Using_Math.Sqrt.exe
+C:\Users\mypc\source\repos\ConsoleApplications\59_Find_Prime_Number_Using_Math.Sqrt\bin\Debug\59_Find_Prime_Number_Using_Math.Sqrt.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\59_Find_Prime_Number_Using_Math.Sqrt\obj\Debug\59_Find_Prime_Number_Using_Math.Sqrt.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\59_Find_Prime_Number_Using_Math.Sqrt\obj\Debug\59_Find_Prime_Number_Using_Math.Sqrt.exe
+C:\Users\mypc\source\repos\ConsoleApplications\59_Find_Prime_Number_Using_Math.Sqrt\obj\Debug\59_Find_Prime_Number_Using_Math.Sqrt.pdb

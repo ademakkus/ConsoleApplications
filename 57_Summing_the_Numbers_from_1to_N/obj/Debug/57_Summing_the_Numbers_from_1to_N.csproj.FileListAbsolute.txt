@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\57_Summing_the_Numbers_from_1to_N\bin\Debug\57_Summing_the_Numbers_from_1to_N.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\57_Summing_the_Numbers_from_1to_N\bin\Debug\57_Summing_the_Numbers_from_1to_N.exe
+C:\Users\mypc\source\repos\ConsoleApplications\57_Summing_the_Numbers_from_1to_N\bin\Debug\57_Summing_the_Numbers_from_1to_N.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\57_Summing_the_Numbers_from_1to_N\obj\Debug\57_Summing_the_Numbers_from_1to_N.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\57_Summing_the_Numbers_from_1to_N\obj\Debug\57_Summing_the_Numbers_from_1to_N.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\57_Summing_the_Numbers_from_1to_N\obj\Debug\57_Summing_the_Numbers_from_1to_N.exe
+C:\Users\mypc\source\repos\ConsoleApplications\57_Summing_the_Numbers_from_1to_N\obj\Debug\57_Summing_the_Numbers_from_1to_N.pdb
