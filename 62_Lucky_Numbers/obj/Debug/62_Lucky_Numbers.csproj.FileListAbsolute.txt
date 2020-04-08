@@ -1,0 +1,6 @@
+C:\Users\mypc\source\repos\ConsoleApplications\62_Lucky_Numbers\bin\Debug\62_Lucky_Numbers.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\62_Lucky_Numbers\bin\Debug\62_Lucky_Numbers.exe
+C:\Users\mypc\source\repos\ConsoleApplications\62_Lucky_Numbers\bin\Debug\62_Lucky_Numbers.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\62_Lucky_Numbers\obj\Debug\62_Lucky_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\62_Lucky_Numbers\obj\Debug\62_Lucky_Numbers.exe
+C:\Users\mypc\source\repos\ConsoleApplications\62_Lucky_Numbers\obj\Debug\62_Lucky_Numbers.pdb

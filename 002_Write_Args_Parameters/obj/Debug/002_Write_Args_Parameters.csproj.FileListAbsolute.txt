@@ -1,0 +1,6 @@
+C:\Users\mypc\source\repos\ConsoleApplications\002_Write_Args_Parameters\bin\Debug\002_Write_Args_Parameters.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\002_Write_Args_Parameters\bin\Debug\002_Write_Args_Parameters.exe
+C:\Users\mypc\source\repos\ConsoleApplications\002_Write_Args_Parameters\bin\Debug\002_Write_Args_Parameters.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\002_Write_Args_Parameters\obj\Debug\002_Write_Args_Parameters.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\002_Write_Args_Parameters\obj\Debug\002_Write_Args_Parameters.exe
+C:\Users\mypc\source\repos\ConsoleApplications\002_Write_Args_Parameters\obj\Debug\002_Write_Args_Parameters.pdb

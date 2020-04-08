@@ -1,0 +1,6 @@
+C:\Users\mypc\source\repos\ConsoleApplications\63_Lottery_6_49\bin\Debug\63_Lottery_6_49.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\63_Lottery_6_49\bin\Debug\63_Lottery_6_49.exe
+C:\Users\mypc\source\repos\ConsoleApplications\63_Lottery_6_49\bin\Debug\63_Lottery_6_49.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\63_Lottery_6_49\obj\Debug\63_Lottery_6_49.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\63_Lottery_6_49\obj\Debug\63_Lottery_6_49.exe
+C:\Users\mypc\source\repos\ConsoleApplications\63_Lottery_6_49\obj\Debug\63_Lottery_6_49.pdb

@@ -1,0 +1,6 @@
+C:\Users\mypc\source\repos\ConsoleApplications\61_Write_PrimeNumber_Range_N_M\bin\Debug\61_Write_PrimeNumber_Range_N_M.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\61_Write_PrimeNumber_Range_N_M\bin\Debug\61_Write_PrimeNumber_Range_N_M.exe
+C:\Users\mypc\source\repos\ConsoleApplications\61_Write_PrimeNumber_Range_N_M\bin\Debug\61_Write_PrimeNumber_Range_N_M.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\61_Write_PrimeNumber_Range_N_M\obj\Debug\61_Write_PrimeNumber_Range_N_M.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\61_Write_PrimeNumber_Range_N_M\obj\Debug\61_Write_PrimeNumber_Range_N_M.exe
+C:\Users\mypc\source\repos\ConsoleApplications\61_Write_PrimeNumber_Range_N_M\obj\Debug\61_Write_PrimeNumber_Range_N_M.pdb
