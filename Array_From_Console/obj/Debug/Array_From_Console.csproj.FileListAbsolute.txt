@@ -1,0 +1,6 @@
+C:\Users\mypc\source\repos\ConsoleApplications\Array_From_Console\bin\Debug\Array_From_Console.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\Array_From_Console\bin\Debug\Array_From_Console.exe
+C:\Users\mypc\source\repos\ConsoleApplications\Array_From_Console\bin\Debug\Array_From_Console.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\Array_From_Console\obj\Debug\Array_From_Console.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\Array_From_Console\obj\Debug\Array_From_Console.exe
+C:\Users\mypc\source\repos\ConsoleApplications\Array_From_Console\obj\Debug\Array_From_Console.pdb

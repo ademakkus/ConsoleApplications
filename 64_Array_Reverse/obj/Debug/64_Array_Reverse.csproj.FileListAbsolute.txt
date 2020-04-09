@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\64_Array_Reverse\bin\Debug\64_Array_Reverse.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\64_Array_Reverse\bin\Debug\64_Array_Reverse.exe
+C:\Users\mypc\source\repos\ConsoleApplications\64_Array_Reverse\bin\Debug\64_Array_Reverse.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\64_Array_Reverse\obj\Debug\64_Array_Reverse.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\64_Array_Reverse\obj\Debug\64_Array_Reverse.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\64_Array_Reverse\obj\Debug\64_Array_Reverse.exe
+C:\Users\mypc\source\repos\ConsoleApplications\64_Array_Reverse\obj\Debug\64_Array_Reverse.pdb
