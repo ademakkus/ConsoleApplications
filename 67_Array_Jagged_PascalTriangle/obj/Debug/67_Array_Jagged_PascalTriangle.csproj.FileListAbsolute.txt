@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\67_Array_Jagged_PascalTriangle\bin\Debug\67_Array_Jagged_PascalTriangle.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\67_Array_Jagged_PascalTriangle\bin\Debug\67_Array_Jagged_PascalTriangle.exe
+C:\Users\mypc\source\repos\ConsoleApplications\67_Array_Jagged_PascalTriangle\bin\Debug\67_Array_Jagged_PascalTriangle.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\67_Array_Jagged_PascalTriangle\obj\Debug\67_Array_Jagged_PascalTriangle.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\67_Array_Jagged_PascalTriangle\obj\Debug\67_Array_Jagged_PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\67_Array_Jagged_PascalTriangle\obj\Debug\67_Array_Jagged_PascalTriangle.exe
+C:\Users\mypc\source\repos\ConsoleApplications\67_Array_Jagged_PascalTriangle\obj\Debug\67_Array_Jagged_PascalTriangle.pdb
