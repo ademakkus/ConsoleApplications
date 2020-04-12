@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\79_Escape_from_Labyrinth\bin\Debug\79_Escape_from_Labyrinth.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\79_Escape_from_Labyrinth\bin\Debug\79_Escape_from_Labyrinth.exe
+C:\Users\mypc\source\repos\ConsoleApplications\79_Escape_from_Labyrinth\bin\Debug\79_Escape_from_Labyrinth.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\79_Escape_from_Labyrinth\obj\Debug\79_Escape_from_Labyrinth.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\79_Escape_from_Labyrinth\obj\Debug\79_Escape_from_Labyrinth.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\79_Escape_from_Labyrinth\obj\Debug\79_Escape_from_Labyrinth.exe
+C:\Users\mypc\source\repos\ConsoleApplications\79_Escape_from_Labyrinth\obj\Debug\79_Escape_from_Labyrinth.pdb
