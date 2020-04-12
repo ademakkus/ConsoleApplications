@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\76_ExtensionMethods\bin\Debug\76_ExtensionMethods.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\76_ExtensionMethods\bin\Debug\76_ExtensionMethods.exe
+C:\Users\mypc\source\repos\ConsoleApplications\76_ExtensionMethods\bin\Debug\76_ExtensionMethods.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\76_ExtensionMethods\obj\Debug\76_ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\76_ExtensionMethods\obj\Debug\76_ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\76_ExtensionMethods\obj\Debug\76_ExtensionMethods.exe
+C:\Users\mypc\source\repos\ConsoleApplications\76_ExtensionMethods\obj\Debug\76_ExtensionMethods.pdb
