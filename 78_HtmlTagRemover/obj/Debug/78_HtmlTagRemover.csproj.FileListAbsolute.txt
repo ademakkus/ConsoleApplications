@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\78_HtmlTagRemover\bin\Debug\78_HtmlTagRemover.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\78_HtmlTagRemover\bin\Debug\78_HtmlTagRemover.exe
+C:\Users\mypc\source\repos\ConsoleApplications\78_HtmlTagRemover\bin\Debug\78_HtmlTagRemover.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\78_HtmlTagRemover\obj\Debug\78_HtmlTagRemover.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\78_HtmlTagRemover\obj\Debug\78_HtmlTagRemover.exe
+C:\Users\mypc\source\repos\ConsoleApplications\78_HtmlTagRemover\obj\Debug\78_HtmlTagRemover.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\78_HtmlTagRemover\obj\Debug\78_HtmlTagRemover.csprojAssemblyReference.cache

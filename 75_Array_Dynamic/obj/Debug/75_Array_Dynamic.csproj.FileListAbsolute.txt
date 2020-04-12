@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\75_Array_Dynamic\bin\Debug\75_Array_Dynamic.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\75_Array_Dynamic\bin\Debug\75_Array_Dynamic.exe
+C:\Users\mypc\source\repos\ConsoleApplications\75_Array_Dynamic\bin\Debug\75_Array_Dynamic.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\75_Array_Dynamic\obj\Debug\75_Array_Dynamic.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\75_Array_Dynamic\obj\Debug\75_Array_Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\75_Array_Dynamic\obj\Debug\75_Array_Dynamic.exe
+C:\Users\mypc\source\repos\ConsoleApplications\75_Array_Dynamic\obj\Debug\75_Array_Dynamic.pdb
