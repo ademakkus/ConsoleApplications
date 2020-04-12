@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\77_CardShuffle\bin\Debug\77_CardShuffle.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\77_CardShuffle\bin\Debug\77_CardShuffle.exe
+C:\Users\mypc\source\repos\ConsoleApplications\77_CardShuffle\bin\Debug\77_CardShuffle.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\77_CardShuffle\obj\Debug\77_CardShuffle.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\77_CardShuffle\obj\Debug\77_CardShuffle.exe
+C:\Users\mypc\source\repos\ConsoleApplications\77_CardShuffle\obj\Debug\77_CardShuffle.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\77_CardShuffle\obj\Debug\77_CardShuffle.csprojAssemblyReference.cache
