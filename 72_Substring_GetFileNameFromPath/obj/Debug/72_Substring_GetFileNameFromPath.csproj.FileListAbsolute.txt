@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\72_Substring_GetFileNameFromPath\bin\Debug\72_Substring_GetFileNameFromPath.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\72_Substring_GetFileNameFromPath\bin\Debug\72_Substring_GetFileNameFromPath.exe
+C:\Users\mypc\source\repos\ConsoleApplications\72_Substring_GetFileNameFromPath\bin\Debug\72_Substring_GetFileNameFromPath.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\72_Substring_GetFileNameFromPath\obj\Debug\72_Substring_GetFileNameFromPath.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\72_Substring_GetFileNameFromPath\obj\Debug\72_Substring_GetFileNameFromPath.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\72_Substring_GetFileNameFromPath\obj\Debug\72_Substring_GetFileNameFromPath.exe
+C:\Users\mypc\source\repos\ConsoleApplications\72_Substring_GetFileNameFromPath\obj\Debug\72_Substring_GetFileNameFromPath.pdb

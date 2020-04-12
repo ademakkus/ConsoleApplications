@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\70_Recursive_Fibonacci\bin\Debug\70_Recursive_Fibonacci.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\70_Recursive_Fibonacci\bin\Debug\70_Recursive_Fibonacci.exe
+C:\Users\mypc\source\repos\ConsoleApplications\70_Recursive_Fibonacci\bin\Debug\70_Recursive_Fibonacci.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\70_Recursive_Fibonacci\obj\Debug\70_Recursive_Fibonacci.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\70_Recursive_Fibonacci\obj\Debug\70_Recursive_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\70_Recursive_Fibonacci\obj\Debug\70_Recursive_Fibonacci.exe
+C:\Users\mypc\source\repos\ConsoleApplications\70_Recursive_Fibonacci\obj\Debug\70_Recursive_Fibonacci.pdb

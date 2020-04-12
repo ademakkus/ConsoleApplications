@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\73_Stream_Reader\obj\Debug\73_Stream_Reader.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\73_Stream_Reader\obj\Debug\73_Stream_Reader.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\73_Stream_Reader\obj\Debug\73_Stream_Reader.exe
+C:\Users\mypc\source\repos\ConsoleApplications\73_Stream_Reader\bin\Debug\73_Stream_Reader.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\73_Stream_Reader\bin\Debug\73_Stream_Reader.exe
+C:\Users\mypc\source\repos\ConsoleApplications\73_Stream_Reader\bin\Debug\73_Stream_Reader.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\73_Stream_Reader\obj\Debug\73_Stream_Reader.pdb

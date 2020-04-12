@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\74_Stream_Read_CountingWordOccurrences\obj\Debug\74_Stream_Read_CountingWordOccurrences.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\74_Stream_Read_CountingWordOccurrences\obj\Debug\74_Stream_Read_CountingWordOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\74_Stream_Read_CountingWordOccurrences\bin\Debug\74_Stream_Read_CountingWordOccurrences.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\74_Stream_Read_CountingWordOccurrences\bin\Debug\74_Stream_Read_CountingWordOccurrences.exe
+C:\Users\mypc\source\repos\ConsoleApplications\74_Stream_Read_CountingWordOccurrences\bin\Debug\74_Stream_Read_CountingWordOccurrences.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\74_Stream_Read_CountingWordOccurrences\obj\Debug\74_Stream_Read_CountingWordOccurrences.exe
+C:\Users\mypc\source\repos\ConsoleApplications\74_Stream_Read_CountingWordOccurrences\obj\Debug\74_Stream_Read_CountingWordOccurrences.pdb

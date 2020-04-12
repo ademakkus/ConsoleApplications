@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\68_Metod_Overloading\bin\Debug\68_Metod_Overloading.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\68_Metod_Overloading\bin\Debug\68_Metod_Overloading.exe
+C:\Users\mypc\source\repos\ConsoleApplications\68_Metod_Overloading\bin\Debug\68_Metod_Overloading.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\68_Metod_Overloading\obj\Debug\68_Metod_Overloading.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\68_Metod_Overloading\obj\Debug\68_Metod_Overloading.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\68_Metod_Overloading\obj\Debug\68_Metod_Overloading.exe
+C:\Users\mypc\source\repos\ConsoleApplications\68_Metod_Overloading\obj\Debug\68_Metod_Overloading.pdb

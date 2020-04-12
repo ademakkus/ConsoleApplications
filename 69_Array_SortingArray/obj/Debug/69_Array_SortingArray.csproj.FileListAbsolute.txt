@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\69_Array_SortingArray\bin\Debug\69_Array_SortingArray.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\69_Array_SortingArray\bin\Debug\69_Array_SortingArray.exe
+C:\Users\mypc\source\repos\ConsoleApplications\69_Array_SortingArray\bin\Debug\69_Array_SortingArray.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\69_Array_SortingArray\obj\Debug\69_Array_SortingArray.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\69_Array_SortingArray\obj\Debug\69_Array_SortingArray.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\69_Array_SortingArray\obj\Debug\69_Array_SortingArray.exe
+C:\Users\mypc\source\repos\ConsoleApplications\69_Array_SortingArray\obj\Debug\69_Array_SortingArray.pdb
