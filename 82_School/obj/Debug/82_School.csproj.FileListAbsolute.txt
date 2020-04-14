@@ -1,0 +1,6 @@
+C:\Users\mypc\source\repos\ConsoleApplications\82_School\bin\Debug\82_School.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\82_School\bin\Debug\82_School.exe
+C:\Users\mypc\source\repos\ConsoleApplications\82_School\bin\Debug\82_School.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\82_School\obj\Debug\82_School.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\82_School\obj\Debug\82_School.exe
+C:\Users\mypc\source\repos\ConsoleApplications\82_School\obj\Debug\82_School.pdb
