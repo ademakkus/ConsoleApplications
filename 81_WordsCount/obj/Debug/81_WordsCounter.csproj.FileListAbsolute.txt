@@ -1,0 +1,6 @@
+C:\Users\mypc\source\repos\ConsoleApplications\81_WordsCount\bin\Debug\81_WordsCount.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\81_WordsCount\bin\Debug\81_WordsCount.exe
+C:\Users\mypc\source\repos\ConsoleApplications\81_WordsCount\bin\Debug\81_WordsCount.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\81_WordsCount\obj\Debug\81_WordsCounter.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\81_WordsCount\obj\Debug\81_WordsCount.exe
+C:\Users\mypc\source\repos\ConsoleApplications\81_WordsCount\obj\Debug\81_WordsCount.pdb

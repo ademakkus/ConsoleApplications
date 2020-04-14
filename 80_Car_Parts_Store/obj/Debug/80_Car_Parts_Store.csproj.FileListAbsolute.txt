@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\80_Car_Parts_Store\bin\Debug\80_Car_Parts_Store.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\80_Car_Parts_Store\bin\Debug\80_Car_Parts_Store.exe
+C:\Users\mypc\source\repos\ConsoleApplications\80_Car_Parts_Store\bin\Debug\80_Car_Parts_Store.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\80_Car_Parts_Store\obj\Debug\80_Car_Parts_Store.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\80_Car_Parts_Store\obj\Debug\80_Car_Parts_Store.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\80_Car_Parts_Store\obj\Debug\80_Car_Parts_Store.exe
+C:\Users\mypc\source\repos\ConsoleApplications\80_Car_Parts_Store\obj\Debug\80_Car_Parts_Store.pdb
