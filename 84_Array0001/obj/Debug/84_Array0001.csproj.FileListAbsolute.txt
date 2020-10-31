@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\84_Array0001\bin\Debug\84_Array0001.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\84_Array0001\bin\Debug\84_Array0001.exe
+C:\Users\mypc\source\repos\ConsoleApplications\84_Array0001\bin\Debug\84_Array0001.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\84_Array0001\obj\Debug\84_Array0001.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\84_Array0001\obj\Debug\84_Array0001.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\84_Array0001\obj\Debug\84_Array0001.exe
+C:\Users\mypc\source\repos\ConsoleApplications\84_Array0001\obj\Debug\84_Array0001.pdb

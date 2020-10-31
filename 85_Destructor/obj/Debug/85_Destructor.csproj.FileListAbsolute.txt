@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\85_Destructor\bin\Debug\85_Destructor.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\85_Destructor\bin\Debug\85_Destructor.exe
+C:\Users\mypc\source\repos\ConsoleApplications\85_Destructor\bin\Debug\85_Destructor.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\85_Destructor\obj\Debug\85_Destructor.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\85_Destructor\obj\Debug\85_Destructor.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\85_Destructor\obj\Debug\85_Destructor.exe
+C:\Users\mypc\source\repos\ConsoleApplications\85_Destructor\obj\Debug\85_Destructor.pdb
