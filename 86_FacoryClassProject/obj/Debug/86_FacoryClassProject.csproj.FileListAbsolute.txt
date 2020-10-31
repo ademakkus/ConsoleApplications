@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\86_FacoryClassProject\bin\Debug\86_FacoryClassProject.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\86_FacoryClassProject\bin\Debug\86_FacoryClassProject.exe
+C:\Users\mypc\source\repos\ConsoleApplications\86_FacoryClassProject\bin\Debug\86_FacoryClassProject.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\86_FacoryClassProject\obj\Debug\86_FacoryClassProject.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\86_FacoryClassProject\obj\Debug\86_FacoryClassProject.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\86_FacoryClassProject\obj\Debug\86_FacoryClassProject.exe
+C:\Users\mypc\source\repos\ConsoleApplications\86_FacoryClassProject\obj\Debug\86_FacoryClassProject.pdb
